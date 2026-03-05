@@ -249,7 +249,7 @@ ls -lah rl_hnav/src/rl_sar/library/mujoco/lib/libmujoco.so.3.2.7
 If your repo provides a helper script:
 
 ```bash
-bash rl_hnav/src/rl_sar/scripts/download_mujoco.sh
+bash rl_hnav/src/rl_sar/run/download_mujoco.sh
 ```
 
 ---
