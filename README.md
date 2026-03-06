@@ -1,7 +1,7 @@
 # Navigation-Aware Hybrid Execution Stack for Unitree G1
 ## Hybrid Navigation + Locomotion (Gazebo/Nav2 + MuJoCo + Real)
 
-
+![rl_hnav](https://github.com/user-attachments/assets/e201be1d-0509-41c8-b2e2-554f1865761a)
 
 [![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu-22.04-blue.svg?logo=ubuntu)](https://ubuntu.com/)
 [![macOS](https://img.shields.io/badge/macOS-Experimental-orange.svg?logo=apple)](https://www.apple.com/macos/)
